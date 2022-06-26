@@ -1,0 +1,11 @@
+#perfrom the below command in cmd
+# it creats virtual environment in the pwd 
+python3 -m venv <env name>  
+
+# To activate the venv
+<env name >\Scripts\activate.bat
+
+#To change the python interpreter in vscode
+go the vscode interpreter and chose edit and select the <env_name>\python.exe
+
+# install fastapi, unicorn, sqlachlamey using pip
